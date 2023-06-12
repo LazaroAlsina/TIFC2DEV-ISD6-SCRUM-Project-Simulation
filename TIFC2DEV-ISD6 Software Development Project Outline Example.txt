@@ -1,0 +1,55 @@
+﻿“Gamers of Nintendo” Blog Site
+
+
+Project Outline:
+
+
+* Defining the projects and its needs:
+   * Technical Specs
+      * How to make websites
+         * Frontend developer
+         * Backend Developers
+   * Cost
+      * Free Assets
+         * https://publicdomainvectors.org/
+         * https://undraw.co/illustrations
+      * Hosting
+         * Replit(Free)
+   * Deadline
+      * By today
+         * 40 mins
+
+
+* Goals and Objectives of the Project:
+   * Goal
+      * Make a website for a client
+   * Objectives
+      * Blog Site
+      * Has 3 or more pages on it.
+      * Gamer theme
+      * Has pictures
+      * Has text related to a topic
+
+
+* Development Life Cycle:
+   * Planning
+      * Use Replit as its free
+         * Have three pages on the website
+         * Connect replit to GitHub Repository
+      * We need to use HTML, CSS, and Javascript
+   * Analysis
+      * Research on how to use HTML, CSS, and JavaScript
+         * Learning by doing bootcamps
+         * Educational websites
+      * How many resources do we need to run our website?
+         * Not much, as long as it can be hosted and view by our product owner.
+   * Design
+      * Documented all the system requirements.
+      * Features of the website should have relevant and trending news about Nintendo.
+   * Implementation
+      * Making the code on Replite
+      * Host the website on Replit
+   * Testing & Integration
+      * Run the Website for free
+   * Maintenance
+      * Check the website once in a while
